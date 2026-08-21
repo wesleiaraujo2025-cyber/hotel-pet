@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Configurações - Hotel Pet</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Hotel Pet</h1>
+    <p>Configurações do Sistema</p>
+</header>
+
+
+<main>
+
+<div class="card-form">
+
+    <h2>Configurações</h2>
+
+
+    <label>
+        Valor da diária:
+    </label>
+
+    <input type="number" value="86">
+
+
+    <label>
+        Quantidade de vagas disponíveis:
+    </label>
+
+    <input type="number" value="20">
+
+
+    <button>
+        Salvar alterações
+    </button>
+
+
+</div>
+
+</main>
+
+
+</body>
+
+</html>
